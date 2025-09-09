@@ -72,5 +72,4 @@ Do not use excessive force when cleaning the tip, as this damages the tip.
 
 ## Instruction manual
 
-- [JBC C245 Series Tips Manual](https://eleshop.eu/catalog/product/view/id/698/s/jbc-c245-series-soldering-tips/category/333/)  
 - [JBC T245-A Handle Manual](https://eleshop.eu/jbc-t245-a.html)
