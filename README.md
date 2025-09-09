@@ -2,7 +2,8 @@
 
 JBC CD-2BQF soldering station, 130 Watt
 
-![JBC Soldering Station](images/jbc-station.png)
+<img src="images/jbc-station.png" alt="JBC Station" width="400"/>
+
 
 ---
 
@@ -43,7 +44,8 @@ Thus, usage of the JBC should align with the following commandments:
 
 Soldering iron tips can be pulled out by hand (given it is cold), but may also be switched while hot with the following procedure:
 
-![Changing Tips](images/change-tip.png)
+<img src="images/change-tip.png" alt="Changing Tips" width="400"/>
+
 
 The soldering station does not heat up until it is picked off the stand.  
 Heating it up takes approximately 2 seconds from sleeping temperature while placed in the stand.
@@ -53,7 +55,8 @@ Heating it up takes approximately 2 seconds from sleeping temperature while plac
 ## Cleaning
 
 When tip is extra dirty, use the wiper before cleaning with brass wool:  
-![Brass Wool](images/wiper.png)
+
+<img src="images/wiper.png" alt="Wiper" width="400"/>
 
 Do not use excessive force when cleaning the tip, as this damages the tip.
 
