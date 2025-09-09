@@ -2,7 +2,7 @@
 
 JBC CD-2BQF soldering station, 130 Watt
 
-![JBC Soldering Station](images/jbc-station.jpg)
+![JBC Soldering Station](images/jbc-station.png)
 
 ---
 
@@ -15,18 +15,15 @@ Thus, usage of the JBC should align with the following commandments:
 1. **Thou shall not remove soldering tin before powering off.**  
    Exposing the clean tip surface causes oxidation, which reduces heat transfer to the solder joint.  
    Before powering off, clean the tip from excess soldering tin or other materials, and apply fresh tin.  
-   ![Tinned Tip](images/tinned-tip.jpg)
 
 2. **Thou shall not use the JBC for other materials than tin.**  
    For experiments outside the normal use-case of a soldering iron, use alternative soldering stations, as this one is strictly for melting tin to or between copper surfaces.  
    This also goes for soldering jobs where likelihood of the soldering tip contacting plastics etc.  
-   ![Electronics Only](images/electronics-only.jpg)
 
 3. **Thou shall not use temperatures higher than 400°C.**  
    Temperatures higher than this damage both the soldering iron tip and the PCB.  
    If soldering tin isn't melting at 400°C, check that you are not using stainless steel wire in place of soldering tin, otherwise the tip is likely damaged and should be replaced.  
    Normal temperatures are ~330 to 370°C.  
-   ![Temperature Setting](images/temp-control.jpg)
 
 4. **Thou shall use solder flux.**  
    Solder flux is not scary, it can remove oxide layers and improves solder bonding.  
@@ -34,13 +31,11 @@ Thus, usage of the JBC should align with the following commandments:
    If solder is not melting properly, use flux or refer to Commandment 3.  
    Flux is applied before applying the soldering iron.  
    Avoid excessive usage which leads to sticky residue.  
-   ![Flux](images/flux.jpg)
 
 5. **Thou shall not use excessive force when soldering.**  
    Soldering tin should melt easily, if it does not, refer to Commandments 3 and 4.  
    Pressing harder risks damaging the surface of the soldering iron tip, once plating is damaged the tip fails quickly.  
    The same goes for scraping the soldering iron, also when cleaning the tip with brass wool or the wiper.  
-   ![Cleaning Tip](images/cleaning-tip.jpg)
 
 ---
 
@@ -48,7 +43,7 @@ Thus, usage of the JBC should align with the following commandments:
 
 Soldering iron tips can be pulled out by hand (given it is cold), but may also be switched while hot with the following procedure:
 
-![Changing Tips](images/change-tip.jpg)
+![Changing Tips](images/change-tip.png)
 
 The soldering station does not heat up until it is picked off the stand.  
 Heating it up takes approximately 2 seconds from sleeping temperature while placed in the stand.
@@ -58,7 +53,7 @@ Heating it up takes approximately 2 seconds from sleeping temperature while plac
 ## Cleaning
 
 When tip is extra dirty, use the wiper before cleaning with brass wool:  
-![Brass Wool](images/brass-wool.jpg)
+![Brass Wool](images/wiper.png)
 
 Do not use excessive force when cleaning the tip, as this damages the tip.
 
@@ -72,4 +67,5 @@ Do not use excessive force when cleaning the tip, as this damages the tip.
 
 ## Instruction manual
 
-- [JBC T245-A Handle Manual](https://eleshop.eu/jbc-t245-a.html)
+- [JBC CD-B Compact Station Manual](manual-cdb-compact-station-0026943_ID-207205.pdf)
+
